@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/event-hub/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/event-hub/static/js/main.ca2b1d8e.chunk.js",
-    "main.js.map": "/event-hub/static/js/main.ca2b1d8e.chunk.js.map",
-    "runtime-main.js": "/event-hub/static/js/runtime-main.6fadc10f.js",
-    "runtime-main.js.map": "/event-hub/static/js/runtime-main.6fadc10f.js.map",
-    "static/js/2.5d84bc94.chunk.js": "/event-hub/static/js/2.5d84bc94.chunk.js",
-    "static/js/2.5d84bc94.chunk.js.map": "/event-hub/static/js/2.5d84bc94.chunk.js.map",
-    "index.html": "/event-hub/index.html",
-    "static/css/main.2ae47eeb.chunk.css.map": "/event-hub/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.5d84bc94.chunk.js.LICENSE.txt": "/event-hub/static/js/2.5d84bc94.chunk.js.LICENSE.txt"
+    "main.css": "/event-shine/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/event-shine/static/js/main.ca2b1d8e.chunk.js",
+    "main.js.map": "/event-shine/static/js/main.ca2b1d8e.chunk.js.map",
+    "runtime-main.js": "/event-shine/static/js/runtime-main.d9d5fe11.js",
+    "runtime-main.js.map": "/event-shine/static/js/runtime-main.d9d5fe11.js.map",
+    "static/js/2.5d84bc94.chunk.js": "/event-shine/static/js/2.5d84bc94.chunk.js",
+    "static/js/2.5d84bc94.chunk.js.map": "/event-shine/static/js/2.5d84bc94.chunk.js.map",
+    "index.html": "/event-shine/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/event-shine/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.5d84bc94.chunk.js.LICENSE.txt": "/event-shine/static/js/2.5d84bc94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fadc10f.js",
+    "static/js/runtime-main.d9d5fe11.js",
     "static/js/2.5d84bc94.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
     "static/js/main.ca2b1d8e.chunk.js"
