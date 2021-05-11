@@ -1,3 +1,6 @@
+# Event App
+This simple app takes and validates the inputs information [here](https://tchoukoualeu.github.io/event-shine/), and saves them to mongoDB.
+
 ## Backend
 Saving and retrieving data is hoocked to a nodejs-MongoDB backend app hosted on `Glitch.com`:
 
