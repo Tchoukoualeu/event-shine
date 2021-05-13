@@ -7,7 +7,8 @@ Saving and retrieving data is hoocked to a nodejs-MongoDB backend app hosted on 
 To fetch all the events saved in the DB, make a GET request to https://event-backend-nodejs.glitch.me/list or simply open the link on your browser. (*Could take few minutes to load, glitch.com puts unused apps to sleep*)
 
 The backend Front page can be found here:
-- [Backend](https://event-backend-nodejs.glitch.me/) (*Could take few minutes to load, glitch.com puts unused apps to sleep*)
+- [Backend Glitch](https://event-backend-nodejs.glitch.me/) (*Could take few minutes to load, glitch.com puts unused apps to sleep*)
+- [Backend Repository](https://github.com/Tchoukoualeu/event-app-backend)
 
 ## Front end
 
